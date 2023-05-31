@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9acba49f-68fe-404d-87ae-67b9a3e4f11a" name="Changes" comment="primeiro commit" />
+    <list default="true" id="9acba49f-68fe-404d-87ae-67b9a3e4f11a" name="Changes" comment="arrumando estrutura">
+      <change afterPath="$PROJECT_DIR$/src/Adivinhacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conversao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +32,9 @@
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="2QJYff450hTMAB2Ssn2lGZSbbNM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -95,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685550113501</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="arrumando estrutura">
+      <created>1685550700945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685550700945</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeiro commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit" />
+    <MESSAGE value="arrumando estrutura" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrumando estrutura" />
   </component>
 </project>
